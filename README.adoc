@@ -1,14 +1,28 @@
-:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0
-:revealjs_slideNumber: true
-:source-highlighter: highlightjs
 :icons: font
 :allow-uri-read:
-:imagesdir: /images
-:stylesheet: adoc-golo.css
+//caminho padrão para imagens
+:imagesdir: images
 :numbered:
-ifndef::env-github[:toc: left]
+:figure-caption: Figura
+:doctype: book
+
+//gera apresentacao
+//pode se baixar os arquivos e add no diretório
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0
+
+//Estilo do Sumário
+:toc2: 
+//após os : insere o texto que deseja ser visível
 :toc-title: Sumário
-:toclevels: 5
+:figure-caption: Figura
+//numerar titulos
+:numbered:
+:source-highlighter: highlightjs
+:icons: font
+:chapter-label:
+:doctype: book
+:lang: pt-BR
+//3+| mesclar linha tabela
 
 ifdef::env-github[:outfilesuffix: .adoc]
 
@@ -20,11 +34,6 @@ ifdef::env-github,env-browser[]
 :tip-caption: :bulb:
 :warning-caption: :warning:
 endif::[]
-
-:chapter-label:
-:description: Elaboração de material didático multimídia com AsciiDoc, git e GitHub
-:listing-caption: Listagem
-:figure-caption: Figura
 
 = VIZINHANÇA COLABORATIVA
 
