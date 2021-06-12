@@ -65,3 +65,8 @@ IMPORTANT: Quer ajudar mais!? Fale com seu vizinho do lado direito e esquerdo, q
 NOTE: Também temos um grupo no WhatsApp dos moradores, convide os demais moradores a participar e juntos vamos fazer da 407 sul um lugar melhor pra se viver em comunidade!
 
 video::V1krIMnOwCs[youtube,width=640,height=480]
+
+== Distribuição Câmeras 
+
+.Pontos Câmeras
+image::pontos-cameras.png[width=400,height=300]
