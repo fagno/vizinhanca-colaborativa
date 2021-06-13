@@ -72,7 +72,7 @@ video::q4sY42xZBZE[youtube,width=640,height=480]
 
 NOTE: Instalação a ser iniciada na semana do dia 14/06/2021.
 
-NOTE: Pagamento da 1ª mensalidade a partir de 10/07
+NOTE: Pagamento da 1ª mensalidade a partir de 10/07/2021.
 
 .Pontos Câmeras
-image::pontos-cameras.png[width=400,height=300]
+image::pontos-cameras.png[width=640,height=480]
