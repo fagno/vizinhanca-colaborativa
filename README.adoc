@@ -39,18 +39,18 @@ endif::[]
 
 Olá vizinhos? 
 
-Já está sabendo da iniciativa dos moradores da 407 sul para instalar monitoramento remoto por câmeras na quadra!? Explico! 
+Já estão sabendo da iniciativa dos moradores da 407 sul para implantar o monitoramento remoto por câmeras na quadra? Explico! 
 
 Nós moradores, buscando maior segurança, bem estar coletivo, nos reunimos para instalar um sistema de monitoramento por câmeras na quadra. 
 A instalação será realizada em pontos estratégicos, como entradas e saídas da quadra, passarelas… com a finalidade de resguardar os acessos e viabilizar a segurança dos moradores e transeuntes.
 
-Atualmente, temos mais de 70 adesões, porém, quanto mais moradores aderirem melhor, sabe porque!? A cada 3 moradores, a empresa instala 1 câmera a mais, sendo assim, quanto mais famílias aderirem, mais fiscalização e segurança teremos! 
+Atualmente, temos mais de 70 adesões, porém, quanto mais moradores aderirem melhor, sabe porque? A cada 3 moradores, a empresa instala 1 câmera a mais, sendo assim, quanto mais famílias aderirem, mais fiscalização e segurança teremos! 
 
 Para participar você deve: 
 
-- preencher o https://docs.google.com/forms/d/e/1FAIpQLSdH9ZO_eSFY_71vKE5as5FgghbBENZtQ_Nr6xWE-W53vAA7Jw/viewform[formulário de intenção].
-- Contribuir no debate com os pontos que na sua opinião merecem mais vigilância 
-- Dizer se pode disponibilizar o seu Wi-Fi para uma das câmeras caso alguma fique na sua residência ou próximo dela! 
+- preencher o https://docs.google.com/forms/d/e/1FAIpQLSdH9ZO_eSFY_71vKE5as5FgghbBENZtQ_Nr6xWE-W53vAA7Jw/viewform[formulário de intenção];
+- Contribuir no debate com os pontos que na sua opinião merecem mais vigilância;
+- Dizer se pode disponibilizar o seu rede de internet para uma das câmeras caso alguma fique na sua residência ou próximo dela.
 
 Outros pontos importantes:
 
@@ -58,15 +58,21 @@ Outros pontos importantes:
 - Para acessar as imagens basta instalar um aplicativo que será fornecido pela empresa;
 - As imagens ficam na nuvem pelo prazo de 3 dias;
 - Atualmente a contribuição mensal está em torno de 39,90 (pode ser pago via cartão ou boleto).
-- A empresa prestadora de serviço é do senhor Antônio Ernani, caso tenha dúvidas: 99214-7842 
+- A empresa prestadora de serviço é do senhor Antônio Ernani, caso tenha dúvidas: (63)99214-7842 
 
 IMPORTANT: Quer ajudar mais!? Fale com seu vizinho do lado direito e esquerdo, quem sabe ele ainda não aderiu porque não está sabendo!? Assim, JUNTOS, faremos muito mais 🙏🏻💪🏻
 
 NOTE: Também temos um grupo no WhatsApp dos moradores, convide os demais moradores a participar e juntos vamos fazer da 407 sul um lugar melhor pra se viver em comunidade!
 
-video::V1krIMnOwCs[youtube,width=640,height=480]
+== Monitoramento Compartilhado e Vizinhança Colaborativa
 
-== Distribuição Câmeras 
+video::q4sY42xZBZE[youtube,width=640,height=480]
+
+== Distribuição das 30 Câmeras Iniciais do Projeto 
+
+NOTE: Instalação a ser iniciada na semana do dia 14/06/2021.
+
+NOTE: Pagamento da 1ª mensalidade a partir de 10/07
 
 .Pontos Câmeras
 image::pontos-cameras.png[width=400,height=300]
