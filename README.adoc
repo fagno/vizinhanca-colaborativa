@@ -37,24 +37,28 @@ endif::[]
 
 = VIZINHANÇA COLABORATIVA
 
-Olá vizinhos? 
+== Venha Participar deste Projeto
 
-Já estão sabendo da iniciativa dos moradores da 407 sul para implantar o monitoramento remoto por câmeras na quadra? Explico! 
+Olá vizinhos!
+
+Já estão sabendo da iniciativa dos moradores da 407 sul com o projeto de monitoramento remoto por câmeras na quadra? Explico! 
 
 Nós moradores, buscando maior segurança, bem estar coletivo, nos reunimos para instalar um sistema de monitoramento por câmeras na quadra. 
 A instalação será realizada em pontos estratégicos, como entradas e saídas da quadra, passarelas… com a finalidade de resguardar os acessos e viabilizar a segurança dos moradores e transeuntes.
 
-Atualmente, temos mais de 70 adesões, porém, quanto mais moradores aderirem melhor, sabe porque? A cada 3 moradores, a empresa instala 1 câmera a mais, sendo assim, quanto mais famílias aderirem, mais fiscalização e segurança teremos! 
+Atualmente, temos mais de 80 adesões, porém, quanto mais moradores aderirem melhor, sabe porque? A cada 3 moradores, a empresa instala 1 câmera a mais, sendo assim, quanto mais famílias aderirem, mais fiscalização e segurança teremos! 
 
 Para participar você deve: 
 
-- preencher o https://docs.google.com/forms/d/e/1FAIpQLSdH9ZO_eSFY_71vKE5as5FgghbBENZtQ_Nr6xWE-W53vAA7Jw/viewform[formulário de intenção];
-- Contribuir no debate com os pontos que na sua opinião merecem mais vigilância;
-- Dizer se pode disponibilizar o seu rede de internet para uma das câmeras caso alguma fique na sua residência ou próximo dela.
+1) preencher o https://docs.google.com/forms/d/e/1FAIpQLSdH9ZO_eSFY_71vKE5as5FgghbBENZtQ_Nr6xWE-W53vAA7Jw/viewform[Formulário de Intenção];
+
+2) Contribuir no debate com os pontos que na sua opinião merecem mais vigilância;
+
+3) Dizer se pode disponibilizar a sua rede de internet para uma das câmeras caso alguma fique próximo da sua residência.
 
 Outros pontos importantes:
 
-- as câmeras ficarão em locais estratégicos, logo, nem todo morador terá uma câmera na frente de sua casa, todavia, a empresa está priorizando a instalação estratégica que cobrirá o maior perímetro possível;
+- As câmeras ficarão em locais estratégicos, logo, nem todo morador terá uma câmera próximo de sua casa, todavia, a empresa está priorizando a instalação estratégica que cobrirá o maior perímetro possível;
 - Para acessar as imagens basta instalar um aplicativo que será fornecido pela empresa;
 - As imagens ficam na nuvem pelo prazo de 3 dias;
 - Atualmente a contribuição mensal está em torno de 39,90 (pode ser pago via cartão ou boleto).
@@ -66,7 +70,7 @@ NOTE: Também temos um grupo no WhatsApp dos moradores, convide os demais morado
 
 == Monitoramento Compartilhado e Vizinhança Colaborativa
 
-video::q4sY42xZBZE[youtube,width=640,height=480]
+video::GYO7YHrPGlA[youtube,width=640,height=480]
 
 == Distribuição das 30 Câmeras Iniciais do Projeto 
 
