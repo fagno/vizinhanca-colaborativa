@@ -37,7 +37,7 @@ endif::[]
 
 = VIZINHANÇA COLABORATIVA
 
-== Venha Participar deste Projeto
+== Venha Fazer Parte Deste Projeto
 
 Olá vizinhos!
 
