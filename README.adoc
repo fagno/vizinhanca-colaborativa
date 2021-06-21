@@ -37,7 +37,7 @@ endif::[]
 
 = VIZINHANÇA COLABORATIVA
 
-image::logo407sul.jpeg[width=640,height=480]
+image::logo407sul.jpeg[width=640,height=380]
 
 == Venha Fazer Parte Deste Projeto
 
