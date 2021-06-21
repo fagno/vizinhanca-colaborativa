@@ -37,6 +37,8 @@ endif::[]
 
 = VIZINHANÇA COLABORATIVA
 
+image::logo407sul.jpeg[width=640,height=480]
+
 == Venha Fazer Parte Deste Projeto
 
 Olá vizinhos!
@@ -50,7 +52,7 @@ Atualmente, temos mais de 80 adesões, porém, quanto mais moradores aderirem me
 
 Para participar você deve: 
 
-1) preencher o https://docs.google.com/forms/d/e/1FAIpQLSdH9ZO_eSFY_71vKE5as5FgghbBENZtQ_Nr6xWE-W53vAA7Jw/viewform[Formulário de Intenção];
+1) Preencher o https://docs.google.com/forms/d/e/1FAIpQLSdH9ZO_eSFY_71vKE5as5FgghbBENZtQ_Nr6xWE-W53vAA7Jw/viewform[Formulário de Intenção];
 
 2) Contribuir no debate com os pontos que na sua opinião merecem mais vigilância;
 
@@ -82,3 +84,18 @@ NOTE: Pagamento da 1ª mensalidade a partir de 10/07/2021.
 
 .Pontos Câmeras "Indicador Amarelo" 
 image::pontos-cameras.png[width=640,height=480]
+
+=== Imagens câmeras já instaladas
+
+image::instaladas.jpeg[width=640,height=480]
+
+image::AL01LT01QI24.png[width=640,height=480]
+
+image::AL02LT01QI15.png[width=640,height=480]
+
+image::AL02LT02QI13.png[width=640,height=480]
+
+image::AL02LT12QI17.png[width=640,height=480]
+
+image::AL02LT15QI15.png[width=640,height=480]
+
