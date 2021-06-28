@@ -85,9 +85,15 @@ NOTE: Pagamento da 1ª mensalidade a partir de 10/07/2021.
 .Pontos Câmeras "Indicador Amarelo" 
 image::pontos-cameras.png[width=640,height=480]
 
-=== Imagens câmeras já instaladas
+=== Pontos de câmeras já instaladas
 
-image::instaladas.jpeg[width=640,height=480]
+Os pontos de cor azul representam as câmeras já instalas na quadra até o momento.
+
+IMPORTANT: Instalação das outras câmeras em andamento.
+
+image::instaladas.png[width=640,height=480]
+
+A seguir, é apresentado algumas imagens de câmeras já instaladas na quadra.
 
 image::AL01LT01QI24.png[width=640,height=480]
 
