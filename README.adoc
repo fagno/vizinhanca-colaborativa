@@ -74,22 +74,18 @@ NOTE: Também temos um grupo no WhatsApp dos moradores, convide os demais morado
 
 video::GYO7YHrPGlA[youtube,width=640,height=480]
 
-== Pontos Iniciais de Instalação das Câmeras
+== Pontos de câmeras já instaladas
 
-Com as adesões até o presente momento, teremos inicialmente 30 câmeras `Pontos Amarelo` instaladas conforme figura a seguir. 
+Com as adesões até o presente momento, teremos inicialmente 30 câmeras  instaladas. 
 
 NOTE: Instalação a ser iniciada na semana do dia 14/06/2021.
 
 NOTE: Pagamento da 1ª mensalidade a partir de 10/07/2021.
 
-.Pontos Câmeras "Indicador Amarelo" 
-image::pontos-cameras.png[width=640,height=480]
+//.Pontos Câmeras "Indicador Amarelo" 
+//image::pontos-cameras.png[width=640,height=480]
 
-=== Pontos de câmeras já instaladas
-
-Os pontos de cor azul representam as câmeras já instalas na quadra até o momento.
-
-IMPORTANT: Instalação das outras câmeras em andamento.
+IMPORTANT: Instalação de câmeras em andamento.
 
 image::instaladas.png[width=640,height=480]
 
